@@ -6,15 +6,8 @@ Site desenvolvido para Editora Cultura, atendendo todos requisitos e responsivé
 
 Apresentação do site
 
-<ul>
-  <li>Home</li>
-  <li>Nossos Escritores</li>
-  <li>Projetos</li>
-  <li>Clientes</li>
-  <li>Nossa Equipe</li>
-  <li>Contato</li>
 
-  <h1> CONHEÇA O SITE....</h1>
+<h1> CONHEÇA O SITE....</h1>
 https://editoracultura.com.br/
   
   Minhas redes:
